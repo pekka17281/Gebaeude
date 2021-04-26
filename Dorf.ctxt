@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dorf
+comment1.params=
+comment1.target=Dorf()
+comment2.params=
+comment2.target=int\ besucher()
+comment3.params=pGebaeude
+comment3.target=void\ gebaeudeHinzufuegen(Gebaeude)
+comment4.params=
+comment4.target=void\ ersteVer\u00E4nderung()
+numComments=5

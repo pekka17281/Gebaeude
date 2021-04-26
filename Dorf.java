@@ -41,6 +41,6 @@ public class Dorf
     {   
         gebaeudeHinzufuegen(new Hochhaus(3, 17, 20));
         gebaeudeHinzufuegen(new Hochhaus(3, 12, 10));
-        gebauedeHinzufuegen(new Kathedrale(250, 120));
+        gebaeudeHinzufuegen(new Kathedrale(250, 120));
     }
 }
